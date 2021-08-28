@@ -22,5 +22,6 @@ public class HelloServlet extends HttpServlet {
         pw.println("Hello Maven Web");
         pw.flush();
         pw.close();
+        System.out.println("hello git!");
     }
 }

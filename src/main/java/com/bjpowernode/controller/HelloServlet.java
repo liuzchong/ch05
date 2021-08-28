@@ -24,5 +24,7 @@ public class HelloServlet extends HttpServlet {
         pw.close();
         System.out.println("hello git!");
         System.out.println("hello git2!");
+        System.out.println("hello hot-fix git!");
+
     }
 }
